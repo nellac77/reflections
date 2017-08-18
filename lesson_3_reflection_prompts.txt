@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+You'd want to do this when yoou do not feel comfortable savingn locally, because you know... Shit happens.
+Also, for you want to share and/or allow contributers.
