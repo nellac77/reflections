@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+You create a hidden file, .git. To initialize your new repository.
+
+
