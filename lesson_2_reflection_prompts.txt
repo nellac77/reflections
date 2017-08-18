@@ -3,3 +3,8 @@ What happens when you initialize a repository? Why do you need to do it?
 You create a hidden file, .git. To initialize your new repository.
 
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It idicates what files from your working directory you have ready for a commit, which may not be all items in your working directory. It also allows for removing the files in case you don't want to commit them.
+
+
